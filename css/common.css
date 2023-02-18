@@ -1,0 +1,23 @@
+@media screen and (max-width: 790px) {
+    #search-container {
+        padding-top: 30%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
+
+@media screen and (min-width: 790px) and (max-width: 1325px) {
+    #search-container {
+        padding-top: 20%;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
+
+@media screen and (min-width: 1325px) {
+    #search-container {
+        padding-top: 15%;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
