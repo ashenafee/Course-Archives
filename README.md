@@ -13,11 +13,7 @@ A personal web interface to access your course archives.
 
 Below are some screenshots of the web interface.
 
-Each section contains a mobile and desktop view.
-
 ### Home Page
-
-Table view of images below:
 
 | Desktop | Mobile |
 | ------- | ------ |
@@ -30,3 +26,11 @@ Table view of images below:
 ### Lecture Page
 
 *Coming Soon*
+
+
+## Roadmap
+
+- [ ] Course information page
+- [ ] Lecture information page
+- [ ] Search functionality
+- [ ] Search results page
