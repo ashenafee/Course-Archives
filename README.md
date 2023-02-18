@@ -30,6 +30,7 @@ Below are some screenshots of the web interface.
 
 ## Roadmap
 
+- [x] Home page
 - [ ] Course information page
 - [ ] Lecture information page
 - [ ] Search functionality
