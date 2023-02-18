@@ -17,9 +17,11 @@ Each section contains a mobile and desktop view.
 
 ### Home Page
 
-![Desktop](https://raw.githubusercontent.com/ashenafee/Course-Archives/master/screenshots/index.png)
+Table view of images below:
 
-![Mobile](https://raw.githubusercontent.com/ashenafee/Course-Archives/master/screenshots/index-mobile.png)
+| Desktop | Mobile |
+| ------- | ------ |
+| ![Desktop](https://raw.githubusercontent.com/ashenafee/Course-Archives/master/screenshots/index.png) | ![Mobile](https://raw.githubusercontent.com/ashenafee/Course-Archives/master/screenshots/index-mobile.png) |
 
 ### Course Page
 
